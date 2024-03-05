@@ -1,11 +1,8 @@
 import "./App.css";
+import React from "react";
 
-function App() {
-  return (
-    <div className="font-bold text-green-500">
-      NAMASTHEY EVERY ONLE LETS BUILD NETFLIX
-    </div>
-  );
-}
+const App = () => {
+  return <div></div>;
+};
 
 export default App;
