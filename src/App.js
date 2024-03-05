@@ -1,8 +1,12 @@
-import "./App.css";
+import Body from "./componemts/Body";
 import React from "react";
 
 const App = () => {
-  return <div></div>;
+  return (
+    <div>
+      <Body />
+    </div>
+  );
 };
 
 export default App;
