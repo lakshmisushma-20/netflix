@@ -1,11 +1,12 @@
-import "./App.css";
+import Body from "./componemts/Body";
+import React from "react";
 
-function App() {
+const App = () => {
   return (
-    <div className="font-bold text-green-500">
-      NAMASTHEY EVERY ONLE LETS BUILD NETFLIX
+    <div>
+      <Body />
     </div>
   );
-}
+};
 
 export default App;
