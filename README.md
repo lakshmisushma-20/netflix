@@ -1,4 +1,4 @@
-#Netflix checkout-
+#Netflix
 
 - create React App
   -c omfigured tailwindCSS
